@@ -1,0 +1,7 @@
+.home-container {
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
